@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Факты о персонаже</string>
+    <string name="welcome">Факты о покемонах</string>
+    <string name="hint_login">Логин</string>
+    <string name="hint_password">Пароль</string>
+    <string name="btn_enter">Войти</string>
+    <string name="search_title">Поиск покемона</string>
+    <string name="hint_query">Имя или номер покемона</string>
+    <string name="btn_search">Найти</string>
+    <string name="btn_add">Добавить в коллекцию</string>
+    <string name="btn_collection">Моя коллекция</string>
+    <string name="collection_title">Моя коллекция</string>
+    <string name="hint_note">Заметка</string>
+    <string name="btn_edit">Изменить</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_back">Назад</string>
+</resources>

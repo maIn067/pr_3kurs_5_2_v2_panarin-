@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="poke_red">#FFE3350D</color>
+    <color name="poke_red_dark">#FFB71C1C</color>
+    <color name="poke_yellow">#FFFFCB05</color>
+    <color name="poke_blue">#FF2A75BB</color>
+    <color name="gray_light">#FFF2F2F2</color>
+</resources>

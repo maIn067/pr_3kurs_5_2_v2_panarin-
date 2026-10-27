@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.Pokemon" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/poke_red</item>
+        <item name="colorPrimaryDark">@color/poke_red_dark</item>
+        <item name="colorAccent">@color/poke_blue</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@android:color/transparent</item>
+    </style>
+</resources>
